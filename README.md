@@ -1,2 +1,2 @@
-# basic-web-template
-Used for cloning to begin class projects
+# Basic Web Template
+Use this repo to create a fork for your own class projects.  Starting point for all lessons.
