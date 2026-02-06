@@ -1,0 +1,1 @@
+This folder is used for modular javascript files.  To references this folder, use "scripts/filename.js".

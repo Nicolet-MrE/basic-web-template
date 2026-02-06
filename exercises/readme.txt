@@ -1,0 +1,1 @@
+This folder should hold your classroom exercises.  It keeps all small assignments in one place.  Reference files in this folder by using "exercises/filename.html".
