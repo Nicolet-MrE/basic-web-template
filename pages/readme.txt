@@ -1,1 +1,0 @@
-Store additional webpages for your site within this folder.  To link to these pages, use "pages/pagename.html".
